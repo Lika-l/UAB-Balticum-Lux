@@ -131,6 +131,8 @@ html p a:hover {
 /** @section Context Styles */
 .logo_text {
 	color:black;
+	font-size: 16px;
+    	font-weight: 700;
 }
 .context-dark, .bg-gray-700, .bg-gray-dark, .bg-gray-darker, .bg-primary,
 .context-dark h1,
