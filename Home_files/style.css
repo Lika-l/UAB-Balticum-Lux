@@ -129,7 +129,9 @@ html p a:hover {
 }
 
 /** @section Context Styles */
-
+.logo_text {
+	color:black;
+}
 .context-dark, .bg-gray-700, .bg-gray-dark, .bg-gray-darker, .bg-primary,
 .context-dark h1,
 .bg-gray-700 h1,
